@@ -203,8 +203,8 @@ View All Menu
 ”
 I wanted to thank you for inviting me down for that amazing dinner the other night. The food was extraordinary.
 
-alt = Sam Jhonson
-Sam Jhonson
+alt = Jhonson Thosh
+Jhonson Thosh
 
 
 
@@ -341,9 +341,9 @@ Google Map
 
 &copy; 2022 Grilli. All Rights Reserved | Crafted by
 
-https://github.com/codewithsadee
+https://github.com/niranajana
 
-codewithsadee
+Niranjana
 
 
 
